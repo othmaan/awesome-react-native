@@ -5,9 +5,11 @@ GEM
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     json (1.8.6)
-    kramdown (1.8.0)
+    kramdown (2.3.0)
+      rexml
     multi_xml (0.5.5)
     parallel (1.6.1)
+    rexml (3.2.4)
 
 PLATFORMS
   ruby
